@@ -1,0 +1,23 @@
+export default [
+    { "_id": "RS101", "name": "Rocket Propulsion", "number": "RS4550", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course provides an in-depth study of the fundamentals of rocket propulsion." },
+    { "_id": "RS102", "name": "Aerodynamics", "number": "RS4560", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course offers a comprehensive exploration of aerodynamics." },
+    { "_id": "RS103", "name": "Spacecraft Design", "number": "RS4570", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course delves into the principles and practices of spacecraft design." },
+    { "_id": "RS104", "name": "Organic Chemistry", "number": "CH1230", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores the structure, properties, and reactions of organic compounds." },
+    { "_id": "RS105", "name": "Inorganic Chemistry", "number": "CH1240", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course covers the properties, structures, and reactions of inorganic compounds." },
+    { "_id": "RS106", "name": "Physical Chemistry", "number": "CH1250", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course covers the principles of physical chemistry." },
+    { "_id": "RS107", "name": "Ancient Languages", "number": "LA2010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course provides an introduction to ancient languages and scripts." },
+    { "_id": "RS108", "name": "Medieval History", "number": "HI2020", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course examines the major events and developments of the medieval period." },
+    { "_id": "RS109", "name": "Renaissance Art", "number": "AR2030", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores the art and culture of the Renaissance period." },
+    { "_id": "RS110", "name": "Ethics in Technology", "number": "PH3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course examines ethical issues in technology and digital culture." },
+    { "_id": "RS111", "name": "Ancient Philosophy", "number": "PH3020", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course surveys the major philosophical traditions of the ancient world." },
+    { "_id": "RS112", "name": "Comparative Religion", "number": "RL3030", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course provides a comparative study of world religions." },
+    { "_id": "RS113", "name": "Early Christianity", "number": "RL3040", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores the history and development of early Christianity." },
+    { "_id": "RS114", "name": "Sufi Literature", "number": "RL4010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course examines the literary traditions of Sufism." },
+    { "_id": "RS115", "name": "Elvish Languages", "number": "LA3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores the constructed languages of Tolkien's Middle-earth." },
+    { "_id": "RS116", "name": "Dwarvish Language", "number": "LA3020", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course covers the Dwarvish language and its cultural context." },
+    { "_id": "RS117", "name": "Hydraulic Engineering", "number": "EN3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course covers the principles and applications of hydraulic engineering." },
+    { "_id": "RS118", "name": "Structural Engineering", "number": "EN3020", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores structural analysis and design." },
+    { "_id": "RS119", "name": "Organic Farming", "number": "AG3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course covers sustainable farming practices." },
+    { "_id": "RS120", "name": "Herbal Medicine", "number": "MD3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course explores traditional and modern uses of herbal medicine." },
+    { "_id": "RS121", "name": "Democratic Governance", "number": "PO3010", "startDate": "2024-01-10", "endDate": "2024-05-15", "description": "This course examines democratic governance systems." }
+];
